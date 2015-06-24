@@ -7,10 +7,10 @@ shell								46/100
 python								1/21
 R								0/
 haskell								0/14
-c++ primer							0/
-leetcode							0/
 database							0/
 matlab								0/
+c++ primer							0/
+leetcode							0/
 c++ finance							0/
 parallel							0/
 excel								0/
@@ -19,13 +19,13 @@ VBA								0/
 stochastic processes						0/
 ODE								0/
 PDE								0/
+information theory inference and learning algorithms		0/
 optimization							0/
 variation calculus						0/
 numerical analysis						0/
 stochastic calculus						0/
 finite differences						0/
 monte carlo							0/
-information theory inference and learning algorithms		0/
 -------------------------------------------------------------------
 statistical inference						3/12
 linear regression						0/
