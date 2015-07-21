@@ -3,20 +3,27 @@ options,futures and other derivatives				2/35
 absolute C++							Done
 Git								Done
 data structures and algorithms					Done
-shell								48/100
-python								3/21
-R								0/
+shell								Done
+python								Done
+R								1/16
 matlab								0/
-haskell								0/14
-database/SQL							0/
-c++ primer							0/
+haskell								3.5/14
+database/SQL							Done
 leetcode							0/
+CSAPP                                                           0/30
+c++ primer							0/
+effective C++                                                   0/
+more effective C++                                              0/
+effective STL                                                   0/
+effective modern C++                                            0/
+data structures and algorithm analysis in C++                   0/
 c++ finance							0/
+python                                                          0/
 parallel							0/
 excel								0/
 VBA								0/
 --------------------------------------------------------------------
-stochastic processes						0/
+stochastic processes						2/11
 ODE								0/
 PDE								0/
 information theory inference and learning algorithms		0/
@@ -33,7 +40,7 @@ multivariate statistics						0/
 bayesian statistics						0/
 Experimental design						0/
 Time series							0/
-statistical machine learning					0/
+statistical learning    					0/
 categorical data analysis					0/
 -------------------------------------------------------------------
-total								3/34
+total								6/41
