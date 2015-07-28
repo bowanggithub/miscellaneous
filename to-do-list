@@ -5,10 +5,8 @@ Git								Done
 data structures and algorithms					Done
 shell								Done
 python								Done
-R								1/16
-matlab								0/
-haskell								3.5/14
 database/SQL							Done
+matlab								0/
 leetcode							0/
 CSAPP                                                           0/30
 c++ primer							0/
@@ -19,6 +17,7 @@ effective modern C++                                            0/
 data structures and algorithm analysis in C++                   0/
 c++ finance							0/
 python                                                          0/
+haskell								3.5/14
 parallel							0/
 excel								0/
 VBA								0/
@@ -35,6 +34,7 @@ finite differences						0/
 monte carlo							0/
 -------------------------------------------------------------------
 statistical inference						3/12
+R								5/16
 linear regression						0/
 multivariate statistics						0/
 bayesian statistics						0/
