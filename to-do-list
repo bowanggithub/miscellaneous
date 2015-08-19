@@ -1,4 +1,4 @@
-options,futures and other derivatives				2/35
+options,futures and other derivatives				3/35
 --------------------------------------------------------------------
 absolute C++							Done
 Git								Done
@@ -6,18 +6,18 @@ data structures and algorithms					Done
 shell								Done
 python								Done
 database/SQL							Done
-matlab								0/
+matlab								1/11
+c++ primer							3/19
 leetcode							0/
 CSAPP                                                           0/30
-c++ primer							0/
+c++ finance							0/
+python                                                          0/
+haskell								3.5/14
 effective C++                                                   0/
 more effective C++                                              0/
 effective STL                                                   0/
 effective modern C++                                            0/
 data structures and algorithm analysis in C++                   0/
-c++ finance							0/
-python                                                          0/
-haskell								3.5/14
 parallel							0/
 excel								0/
 VBA								0/
@@ -34,7 +34,6 @@ finite differences						0/
 monte carlo							0/
 -------------------------------------------------------------------
 statistical inference						6/12
-R								5/16
 linear regression						0/
 multivariate statistics						0/
 bayesian statistics						0/
@@ -43,4 +42,4 @@ Time series							0/
 statistical learning    					0/
 categorical data analysis					0/
 -------------------------------------------------------------------
-total								6/41
+total								6/40
