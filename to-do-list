@@ -1,4 +1,5 @@
 options,futures and other derivatives				3/35
+financial math                                                  0/
 --------------------------------------------------------------------
 absolute C++							Done
 Git								Done
@@ -33,7 +34,7 @@ stochastic calculus						0/
 finite differences						0/
 monte carlo							0/
 -------------------------------------------------------------------
-statistical inference						6/12
+statistical inference						Done
 linear regression						0/
 multivariate statistics						0/
 bayesian statistics						0/
@@ -42,4 +43,4 @@ Time series							0/
 statistical learning    					0/
 categorical data analysis					0/
 -------------------------------------------------------------------
-total								6/40
+total								7/41
