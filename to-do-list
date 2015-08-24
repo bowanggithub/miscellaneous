@@ -12,26 +12,16 @@ c++ primer							3/19
 python                                                          0/
 haskell								3.5/14
 leetcode							0/
-CSAPP                                                           0/30
 c++ finance							0/
-effective C++                                                   0/
-more effective C++                                              0/
-effective STL                                                   0/
-effective modern C++                                            0/
-data structures and algorithm analysis in C++                   0/
-parallel							0/
-excel								0/
-VBA								0/
+CSAPP                                                           0/30
 --------------------------------------------------------------------
 stochastic processes						2/11
 ODE								0/
 PDE								0/
 information theory inference and learning algorithms		0/
 optimization							0/
-variation calculus						0/
 numerical analysis						0/
 stochastic calculus						0/
-finite differences						0/
 monte carlo							0/
 -------------------------------------------------------------------
 statistical inference						Done
@@ -43,4 +33,4 @@ Time series							0/
 statistical learning    					0/
 categorical data analysis					0/
 -------------------------------------------------------------------
-total								7/41
+total								7/31
